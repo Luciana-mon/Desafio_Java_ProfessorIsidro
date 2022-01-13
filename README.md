@@ -1,13 +1,13 @@
 # Desafio_Java_ProfessorIsidro
 Desafio 10 dias para treinar logica com Java
 
-Materiais de apoio
-
+Dia 01
 Objetivo: Treinar Entrada -> Processamento -> Saída (sem formatação). Dica: pense no operador de resto de divisão
 
 Enunciado: https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
+           https://www.beecrowd.com.br/judge/pt/problems/view/1003
 
-Vídeo de Correção: https://www.youtube.com/watch?v=M2QNrVlbtE0
+
 Dia 02
 
 Objetivo: Treinar Entrada -> Processamento -> Saída (com formatação de saída)
