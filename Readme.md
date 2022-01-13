@@ -11,7 +11,9 @@ Objetivo: Treinar Entrada -> Processamento -> Saída (sem formatação). Dica: p
 
 Enunciados</br>
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1020</br>
-https://www.beecrowd.com.br/judge/pt/problems/view/1003
+https://www.beecrowd.com.br/judge/pt/problems/view/1003</br>
+https://www.beecrowd.com.br/judge/pt/problems/view/1002</br>
+https://www.beecrowd.com.br/judge/pt/problems/view/1017
 
 </body>
 </html>
